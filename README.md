@@ -8,11 +8,11 @@ The interactive dashboard built from this dataset allows users to explore the ab
 
 The horizontal bar chart displays the top 10 OTUs by abundance for the selected individual. The x-axis represents the sample values (abundance), while the y-axis corresponds to the OTU IDs. Hovering over the bars reveals the OTU labels, providing insight into the most dominant microbial species.
 
-[bar.png]
+![bar.png](https://github.com/otybaasandorj/belly-button-challenge/blob/main/images/bar.png)
 
 The bubble chart offers a comprehensive view of all OTUs within a sample. The x-axis displays OTU IDs, while the y-axis represents their abundance. Each bubble’s size correlates with the abundance of the OTU, and its color signifies a unique OTU ID.
 
-[bubble.png]
+![bubble.png](https://github.com/otybaasandorj/belly-button-challenge/blob/main/images/bubble.png)
 
 The Belly Button Biodiversity dataset reveals a highly diverse microbial ecosystem, with a small core of common microbes shared among most individuals and a wide variety of rare species. Through interactive visualizations, such as bar and bubble charts, the dataset highlights the variability in microbial abundance and distribution across individuals. These findings not only deepen our understanding of microbial ecology but also hint at the potential for personalized applications in health and hygiene.
 
